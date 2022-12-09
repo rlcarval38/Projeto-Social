@@ -8,6 +8,10 @@
     width: 0px;
     height: 0px;
 }
+img{
+    position: relative;
+    width: 267px;
+}
 a{
     display: block;
     background-color: darkred;
